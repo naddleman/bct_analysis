@@ -5,6 +5,8 @@ simple analysis to guide further investigations.
 
 ## Usage
 In a directory with `speaker.xlsx`,
+
+
 `python bct_analysis.py`
 
 outputs a series of csv files with contingency table data.
